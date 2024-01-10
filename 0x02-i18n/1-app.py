@@ -10,7 +10,7 @@ Use that class as config for your Flask app.
 """
 
 
-from flask import Flask, render_tamplate
+from flask import Flask, render_template
 from flask_babel import Babel
 
 
